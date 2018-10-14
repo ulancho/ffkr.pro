@@ -1,13 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="02441676-e9c8-431d-b668-2d64e026fd75" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="02441676-e9c8-431d-b668-2d64e026fd75" name="Default" comment="раздел обучене">
+      <change afterPath="$PROJECT_DIR$/obuchenie.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog-default.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog-default.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/logo.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/logo.png" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,13 +12,16 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="fit2" />
+  </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="blog-default.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/blog-default.html">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="obuchenie.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/obuchenie.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="296">
-              <caret line="123" column="36" lean-forward="true" selection-start-line="123" selection-start-column="36" selection-end-line="123" selection-end-column="36" />
+            <state relative-caret-position="55">
+              <caret line="50" column="18" lean-forward="true" selection-start-line="50" selection-start-column="18" selection-end-line="50" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -30,8 +29,8 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="177">
-              <caret line="795" column="38" selection-start-line="795" selection-start-column="38" selection-end-line="795" selection-end-column="38" />
+            <state relative-caret-position="280">
+              <caret line="557" column="59" lean-forward="true" selection-start-line="557" selection-start-column="59" selection-end-line="557" selection-end-column="59" />
             </state>
           </provider>
         </entry>
@@ -50,13 +49,13 @@
       <find>img</find>
       <find>pagination</find>
       <find>center</find>
-      <find>Blog Default</find>
+      <find />
       <find>10.1</find>
       <find>img-clubs</find>
       <find>class-block</find>
       <find>z-index</find>
       <find>text</find>
-      <find>&lt;!-- /.page-header --&gt;5</find>
+      <find />
       <find>btn-default-link</find>
       <find>post-img</find>
     </findStrings>
@@ -81,6 +80,7 @@
         <option value="$USER_HOME$/AppData/Local/Temp/scp46578/var/www/html/test.sss.kg/controllers/kafe.controller.php" />
         <option value="$PROJECT_DIR$/blog-default.html" />
         <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/obuchenie.html" />
       </list>
     </option>
   </component>
@@ -105,6 +105,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -121,7 +122,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -174,12 +174,22 @@
       <workItem from="1539085823428" duration="835000" />
       <workItem from="1539161050623" duration="7229000" />
       <workItem from="1539231973158" duration="609000" />
-      <workItem from="1539412143486" duration="1741000" />
+      <workItem from="1539412143486" duration="2751000" />
+      <workItem from="1539524413766" duration="751000" />
+      <workItem from="1539536277948" duration="680000" />
     </task>
+    <task id="LOCAL-00001" summary="images for news">
+      <created>1539418177760</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1539418177760</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="62032000" />
+    <option name="totallyTimeSpent" value="64473000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -194,17 +204,17 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3294893" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.3294893" />
+      <window_info anchor="bottom" id="Messages" weight="0.3294893" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5015129" side_tool="true" weight="0.2306425" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="7" visible="true" weight="0.3294893" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.56177926" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14069591" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.49848714" visible="true" weight="0.2306425" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49624062" visible="true" weight="0.14220877" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Structure" order="1" sideWeight="0.5037594" side_tool="true" weight="0.14220877" />
+      <window_info id="Favorites" order="2" sideWeight="0.5037594" side_tool="true" weight="0.14220877" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -212,6 +222,7 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -246,19 +257,17 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="images for news" />
+    <MESSAGE value="раздел обучене" />
+    <option name="LAST_COMMIT_MESSAGE" value="раздел обучене" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <option name="time" value="3" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7225">
-          <caret line="425" selection-start-line="297" selection-start-column="3" selection-end-line="425" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/jquery.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -577,17 +586,24 @@
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/AppData/Local/Temp/scp46578/var/www/html/test.sss.kg/controllers/kafe.controller.php" />
-    <entry file="file://$PROJECT_DIR$/css/style.css">
+    <entry file="file://$PROJECT_DIR$/blog-default.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="795" column="38" selection-start-line="795" selection-start-column="38" selection-end-line="795" selection-end-column="38" />
+        <state relative-caret-position="313">
+          <caret line="124" column="34" selection-start-line="124" selection-start-column="34" selection-end-line="124" selection-end-column="34" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog-default.html">
+    <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="296">
-          <caret line="123" column="36" lean-forward="true" selection-start-line="123" selection-start-column="36" selection-end-line="123" selection-end-column="36" />
+        <state relative-caret-position="280">
+          <caret line="557" column="59" lean-forward="true" selection-start-line="557" selection-start-column="59" selection-end-line="557" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/obuchenie.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="55">
+          <caret line="50" column="18" lean-forward="true" selection-start-line="50" selection-start-column="18" selection-end-line="50" selection-end-column="18" />
         </state>
       </provider>
     </entry>
