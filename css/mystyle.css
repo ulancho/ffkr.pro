@@ -59,8 +59,20 @@
 /*...обучение*/
 /*Pitanie*/
 .pit-block{
-    height: 150px;
+    height: 180px;
     width: 100%;
     border: 1px solid red;
+    /*background-color: #ffffff;*/
+}
+.img-pit{
+    height: 180px;
+    width: 190px;
+    border: 1px solid black;
+}
+.pit-img{height: 180px;width: 190px}
+.content-pit{
+    height: 180px;
+    width: 100%;
+    border: 1px solid navy;
 }
 /*...Pitanie*/
