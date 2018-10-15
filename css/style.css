@@ -257,7 +257,7 @@ button.btn { margin-right: -1px; }
 .space-medium { padding-top: 30px; padding-bottom: 100px; }
 .space-large { padding-top: 140px; padding-bottom: 140px; }
 .space-ex-large { padding-top: 160px; padding-bottom: 160px; }
-.content { padding-top: 80px; padding-bottom: 80px; }
+.content { padding-top: 30px; padding-bottom: 40px; }
 
 /*----------------------
   4.2 Margin Space
@@ -364,7 +364,7 @@ button.btn { margin-right: -1px; }
 .text-black { color: #222528; }
 .text-yellow { color: #fcd54d; }
 .text-secondary { color: #193e6b !important; }
-.text-light { color: #f4f4f6; }
+.text-light { color: #f4f4f6;}
 .primary-sidebar { }
 .secondary-sidebar { }
 .card-block { padding: 80px; }
@@ -554,8 +554,8 @@ img.grayscale:hover { filter: grayscale(0); opacity: 1; transition-property: fil
 /*----------------------------------------------
    5.4 Page Header
 ----------------------------------------------*/
-.page-header { background: url(../images/page_header.jpg)no-repeat; position: relative; background-size: cover; background-position-x: 25%; }
-.page-caption { padding-top: 304px; padding-bottom: 30px; }
+.page-header { background: url(../images/page_header.jpg)no-repeat; position: relative; background-size: cover; background-position-x: 25%;width: 100%;height: 350px }
+.page-caption { padding-top: 250px; padding-bottom: 30px; }
 .page-title { font-size: 42px; line-height: 1; color: #fff; font-weight: 400; text-transform: uppercase; letter-spacing: 2px; }
 
 /*------- Breadcrumb ------*/
