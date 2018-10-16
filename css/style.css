@@ -126,7 +126,7 @@ select { }
 
 /* Form Control Classes */
 
-.control-label { font-size: 14px; text-transform: capitalize; color: #7b8085; letter-spacing: 0px; font-weight: 400; line-height: 1.5; padding-top: 10px; }
+.control-label { font-size: 14px; letter-spacing: 0px; font-weight: 400; line-height: 1.5;}
 textarea.form-control { height: auto; }
 .required { }
 .form-group { margin-bottom: 5px; }
@@ -856,7 +856,8 @@ caption { padding-top: .75rem; padding-bottom: .75rem; color: #26282c; text-alig
 /*----- Comments -----*/
 .comment-area { margin-bottom: 30px; padding: 40px; background-color: #f6f6f6; }
 .comment-list-title { font-size: 20px; font-weight: 600; margin-bottom: 30px; }
-.comment-title { margin-bottom: 0px; font-size: 16px; font-weight: 700; }
+.comment-title { margin-bottom: 0px; font-size: 16px; font-weight: 700;
+  color: #000;padding-top: 5px;}
 .comment-content { margin-bottom: 10px; }
 .comment-list { margin-bottom: 25px; }
 .comment-list:last-child { margin-bottom: 0px; border-bottom: 0px; padding: 0px; }

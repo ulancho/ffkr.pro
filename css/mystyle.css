@@ -59,20 +59,22 @@
 /*...обучение*/
 /*Pitanie*/
 .pit-block{
-    height: 180px;
+    height: auto;
     width: 100%;
-    border: 1px solid red;
-    /*background-color: #ffffff;*/
+    /*border: 1px solid red;*/
+    background-color: #ffffff;
 }
 .img-pit{
     height: 180px;
     width: 190px;
-    border: 1px solid black;
+    /*border: 1px solid black;*/
+    /*margin:0 auto;*/
 }
-.pit-img{height: 180px;width: 190px}
+.pit-img{height: 180px;width: 190px;}
 .content-pit{
     height: 180px;
     width: 100%;
-    border: 1px solid navy;
+    /*border: 1px solid navy;*/
 }
+.pit-gallery{height: 330px; width:100%;}
 /*...Pitanie*/
