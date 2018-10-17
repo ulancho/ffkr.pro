@@ -63,6 +63,9 @@
     width: 100%;
     /*border: 1px solid red;*/
     background-color: #ffffff;
+    -moz-box-shadow: -2px 4px 21px #000000;
+    -webkit-box-shadow: -2px 4px 21px #000000;
+    box-shadow: -2px 4px 21px #000000;
 }
 .img-pit{
     height: 180px;
@@ -77,4 +80,5 @@
     /*border: 1px solid navy;*/
 }
 .pit-gallery{height: 330px; width:100%;}
+.img-fluid{height:180px; width:100%;}
 /*...Pitanie*/
