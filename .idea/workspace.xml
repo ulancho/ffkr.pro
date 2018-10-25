@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="02441676-e9c8-431d-b668-2d64e026fd75" name="Default" comment="раздел обучене">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/personal-trainer.html" beforeDir="false" afterPath="$PROJECT_DIR$/personal-trainer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainers.html" beforeDir="false" afterPath="$PROJECT_DIR$/trainers.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -35,11 +34,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="personal-trainer.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/personal-trainer.html">
+      <file leaf-file-name="trainers.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/trainers.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="251">
-              <caret line="142" column="22" selection-start-line="142" selection-start-column="22" selection-end-line="142" selection-end-column="22" />
+            <state relative-caret-position="270">
+              <caret line="155" column="80" selection-start-line="155" selection-start-column="80" selection-end-line="155" selection-end-column="80" />
             </state>
           </provider>
         </entry>
@@ -90,7 +89,6 @@
         <option value="$PROJECT_DIR$/contact-us.html" />
         <option value="$PROJECT_DIR$/class-single.html" />
         <option value="$PROJECT_DIR$/class-list.html" />
-        <option value="$PROJECT_DIR$/trainers.html" />
         <option value="$PROJECT_DIR$/blog-single.html" />
         <option value="$USER_HOME$/AppData/Local/Temp/scp01952/var/www/html/test.sss.kg/controllers/kafe.controller.php" />
         <option value="$PROJECT_DIR$/../test/login.php" />
@@ -107,6 +105,7 @@
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/personal-trainer.html" />
+        <option value="$PROJECT_DIR$/trainers.html" />
       </list>
     </option>
   </component>
@@ -215,7 +214,7 @@
       <workItem from="1540270906542" duration="41000" />
       <workItem from="1540295993158" duration="1425000" />
       <workItem from="1540305473103" duration="27000" />
-      <workItem from="1540441270706" duration="283000" />
+      <workItem from="1540441270706" duration="739000" />
     </task>
     <task id="LOCAL-00001" summary="images for news">
       <created>1539418177760</created>
@@ -228,7 +227,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="126619000" />
+    <option name="totallyTimeSpent" value="127075000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -243,7 +242,7 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49624062" visible="true" weight="0.21785174" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49624062" weight="0.21785174" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3294893" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.4977307" side_tool="true" weight="0.2306425" />
@@ -627,13 +626,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/trainers.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="123">
-          <caret line="107" column="24" lean-forward="true" selection-start-line="107" selection-start-column="24" selection-end-line="107" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pitanie.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="414">
@@ -641,13 +633,6 @@
           <folding>
             <element signature="n#style#0;n#h3#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="898" column="30" selection-start-line="898" selection-start-column="30" selection-end-line="898" selection-end-column="30" />
         </state>
       </provider>
     </entry>
@@ -669,6 +654,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="251">
           <caret line="142" column="22" selection-start-line="142" selection-start-column="22" selection-end-line="142" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="898" column="30" selection-start-line="898" selection-start-column="30" selection-end-line="898" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trainers.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="155" column="80" selection-start-line="155" selection-start-column="80" selection-end-line="155" selection-end-column="80" />
         </state>
       </provider>
     </entry>
