@@ -70,6 +70,7 @@
 .img-pit{
     height: 180px;
     width: 190px;
+    position:absolute;
     /*border: 1px solid black;*/
     /*margin:0 auto;*/
 }
@@ -81,4 +82,30 @@
 }
 .pit-gallery{height: 330px; width:100%;}
 .img-fluid{height:180px; width:100%;}
+.green-hover:hover{color:lime;cursor:pointer}
+.akcia-img{
+    position: relative;
+    z-index: 9;
+    height: 100px;
+}
 /*...Pitanie*/
+/*personal internet-trener*/
+.block-of-persoanl-trainers{
+    height: auto;
+    width: 100%;
+    background: white;
+    border: 1px solid #c8d8ff;
+    -moz-box-shadow: 3px 1px 6px #000000;
+    -webkit-box-shadow: 3px 1px 6px #000000;
+    box-shadow: 3px 1px 6px #000000;
+}
+.text-shadow{
+    text-shadow:7px 2px 6px #000000;
+}
+.precent-block{
+    height: 100px;
+    width: 100px;
+    background: red;
+    z-index: 9999;
+}
+/*...personal internet-trener*/
