@@ -3,11 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="02441676-e9c8-431d-b668-2d64e026fd75" name="Default" comment="раздел обучене">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/mystyle.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mystyle.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pitanie.html" beforeDir="false" afterPath="$PROJECT_DIR$/pitanie.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/personal-trainer.html" beforeDir="false" afterPath="$PROJECT_DIR$/personal-trainer.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -24,17 +20,8 @@
       <file leaf-file-name="mystyle.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/mystyle.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1445">
+            <state relative-caret-position="525">
               <caret line="85" column="11" selection-start-line="85" selection-start-column="11" selection-end-line="85" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4454">
-              <caret line="262" column="30" selection-start-line="262" selection-start-column="30" selection-end-line="262" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -42,21 +29,17 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15266">
+            <state relative-caret-position="17">
               <caret line="898" column="30" selection-start-line="898" selection-start-column="30" selection-end-line="898" selection-end-column="30" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pitanie.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pitanie.html">
+      <file leaf-file-name="personal-trainer.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/personal-trainer.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="175" column="27" selection-start-line="175" selection-start-column="27" selection-end-line="175" selection-end-column="27" />
-              <folding>
-                <element signature="n#style#0;n#h3#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="e#14408#14415#1" expanded="true" />
-              </folding>
+            <state relative-caret-position="251">
+              <caret line="142" column="22" selection-start-line="142" selection-start-column="22" selection-end-line="142" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -119,11 +102,11 @@
         <option value="$PROJECT_DIR$/equipment.html" />
         <option value="$PROJECT_DIR$/css/mystyle.css" />
         <option value="$PROJECT_DIR$/membership-page.html" />
-        <option value="$PROJECT_DIR$/personal-trainer.html" />
         <option value="$PROJECT_DIR$/css/bootstrap.min.css" />
         <option value="$PROJECT_DIR$/pitanie.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/personal-trainer.html" />
       </list>
     </option>
   </component>
@@ -155,17 +138,6 @@
               <item name="fit2" type="b2602c69:ProjectViewProjectNode" />
               <item name="fit2" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="fit2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fit2" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="fit2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fit2" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-              <item name="bootstrap.css" type="620a8d5e:NestingTreeNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -175,7 +147,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../gym" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -243,6 +215,7 @@
       <workItem from="1540270906542" duration="41000" />
       <workItem from="1540295993158" duration="1425000" />
       <workItem from="1540305473103" duration="27000" />
+      <workItem from="1540441270706" duration="283000" />
     </task>
     <task id="LOCAL-00001" summary="images for news">
       <created>1539418177760</created>
@@ -255,7 +228,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="126336000" />
+    <option name="totallyTimeSpent" value="126619000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -270,18 +243,18 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49624062" visible="true" weight="0.21482602" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49624062" visible="true" weight="0.21785174" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3294893" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.4977307" side_tool="true" weight="0.2306425" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.56177926" />
       <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.56177926" />
       <window_info id="Structure" order="1" sideWeight="0.5037594" side_tool="true" weight="0.14220877" />
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.50226927" weight="0.3294893" />
-      <window_info id="Favorites" order="2" sideWeight="0.5037594" side_tool="true" weight="0.14220877" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" sideWeight="0.5037594" side_tool="true" weight="0.14220877" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -295,19 +268,19 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49624062" visible="true" weight="0.2859304" />
       <window_info id="Structure" order="1" sideWeight="0.5037594" side_tool="true" weight="0.14220877" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3294893" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.56177926" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.50226927" weight="0.3294893" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="10" weight="0.56177926" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.4977307" side_tool="true" weight="0.2306425" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.3294893" />
@@ -654,13 +627,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/personal-trainer.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="166">
-          <caret line="236" column="10" lean-forward="true" selection-start-line="236" selection-start-column="10" selection-end-line="236" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/trainers.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="123">
@@ -668,35 +634,41 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/mystyle.css">
+    <entry file="file://$PROJECT_DIR$/pitanie.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1445">
-          <caret line="85" column="11" selection-start-line="85" selection-start-column="11" selection-end-line="85" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4454">
-          <caret line="262" column="30" selection-start-line="262" selection-start-column="30" selection-end-line="262" selection-end-column="30" />
+        <state relative-caret-position="414">
+          <caret line="175" column="27" selection-start-line="175" selection-start-column="27" selection-end-line="175" selection-end-column="27" />
+          <folding>
+            <element signature="n#style#0;n#h3#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15266">
+        <state relative-caret-position="17">
           <caret line="898" column="30" selection-start-line="898" selection-start-column="30" selection-end-line="898" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pitanie.html">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="175" column="27" selection-start-line="175" selection-start-column="27" selection-end-line="175" selection-end-column="27" />
-          <folding>
-            <element signature="n#style#0;n#h3#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#14408#14415#1" expanded="true" />
-          </folding>
+        <state relative-caret-position="17">
+          <caret line="262" column="30" selection-start-line="262" selection-start-column="30" selection-end-line="262" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/mystyle.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="85" column="11" selection-start-line="85" selection-start-column="11" selection-end-line="85" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/personal-trainer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="142" column="22" selection-start-line="142" selection-start-column="22" selection-end-line="142" selection-end-column="22" />
         </state>
       </provider>
     </entry>
